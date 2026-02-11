@@ -97,6 +97,9 @@ Tutti i miei progetti nascono da **esigenze reali** di gestione di rete e sono i
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Netmiko](https://img.shields.io/badge/Netmiko-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+#### Cloud & SD-WAN
+![Cato Networks](https://img.shields.io/badge/Cato_Networks-7B2D8E?style=for-the-badge&logo=catonetworks&logoColor=white)
+
 </div>
 
 ---
